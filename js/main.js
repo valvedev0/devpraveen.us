@@ -67,11 +67,12 @@ var files = (function () {
         }
     };
     Singleton.defaultOptions = {
-        "about.txt": "This website was made using only pure JavaScript with no extra libraries.\nI made it dynamic so anyone can use it, just download it from GitHub and change the config text according to your needs.\nIf you manage to find any bugs or security issues feel free to email me: luisbraganca@protonmail.com",
-        "getting_started.txt": "First, go to js/main.js and replace all the text on both singleton vars.\n- configs: All the text used on the website.\n- files: All the fake files used on the website. These files are also used to be listed on the sidenav.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\nDon't forget also to:\n- Change the page title on the index.html file\n- Change the website color on the css/main.css\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
-        "contact.txt": "contact@devpraveen.us",
+        "about.txt": "game developer, virtual world and architect designer. ",
+        "skills.txt": "\nUnity 3D - Intermediate \n\nC# - Intermediate \n\nJava - Intermediate \n\nC Programming - Advanced \n\nAnimation - Intermediate \n\nBlender 3D - Intermediate \n\nUnreal Engine - Advanced \n\nC++ Programming -  Advanced \n\nAlgorithms,Data Structures,Problem Solving - Intermediate\n..\n..\n..\n..\n..\n..\n..\n..\nmore on the way",
+        "contact.txt": "mail me at contact@devpraveen.us",
         "linkedin.txt": "https://www.linkedin.com/in/valvedev/",
-        "github.txt": "https://github.com/valvedev0"
+        "github.txt": "https://github.com/valvedev0",
+        "projects.txt": "Loading Projects .........Load Complete.\n\nHere is list of my Projects :\n\n1. The Castle Guard - A Fully functional,fantastic looking 3D Game made in unreal Engine 4.\n\n2. Classic ball game - A 2d game made using unity implementing classic mario style gameplay.\n\n3. Customer Segmentation using Machine Learning - Customer segmentation is a technique in which we divide the customers based on their purchase history, gender, age, interest, etc. It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals. With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.\n\n4. Corona Blaster - A fun game making use of Entity System in Unity.\n\nPlease note - All the links to my project can be found at the side navigation bar in the Project Links button\n "
     };
     return {
         getInstance: function (options) {
