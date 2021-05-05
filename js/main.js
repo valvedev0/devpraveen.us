@@ -72,6 +72,7 @@ var files = (function () {
         "contact.txt": "mail me at contact@devpraveen.us",
         "linkedin.txt": "https://www.linkedin.com/in/valvedev/",
         "github.txt": "https://github.com/valvedev0",
+         "blogs.txt": "https://s7854465.blogspot.com/",
         "projects.txt": "Loading Projects .........Load Complete.\n\nHere is list of my Projects :\n\n1. The Castle Guard - A Fully functional,fantastic looking 3D Game made in unreal Engine 4.\n\n2. Classic ball game - A 2d game made using unity implementing classic mario style gameplay.\n\n3. Customer Segmentation using Machine Learning - Customer segmentation is a technique in which we divide the customers based on their purchase history, gender, age, interest, etc. It is useful to get this information so that the store can get help in personalize marketing and provide customers with relevant deals. With the help of this project, companies can run user-specific campaigns and provide user-specific offers rather than broadcasting same offer to all the users.\n\n4. Corona Blaster - A fun game making use of Entity System in Unity.\n\nPlease note - All the links to my project can be found at the side navigation bar in the Project Links button\n "
     };
     return {
